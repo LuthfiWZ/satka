@@ -1,9 +1,0 @@
-{
-  "name": "satka-api",
-  "version": "1.0.0",
-  "description": "API Satwa Endemik Kalimantan",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  }
-}
